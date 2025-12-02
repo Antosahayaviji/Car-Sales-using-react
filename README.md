@@ -32,7 +32,7 @@ The car sales website allows user to visualize:
 
 # 📜 Content
 
-* This website is created with `HTML` </>, `CSS ` { }, `Javascript` () and `React` < / >
+* This website is created with `HTML` </>, `CSS ` { }, `Javascript` ( ) and `React` < / >
 * This is a `responsive website` 🎯
 * Here we have different insights like `Home` 🏠, `Buy Car` 🚕, `About` ⏱, `Services ` 🛠️, `Register` 📝 and `Sign In` 📱 to get better information of the car details
 * The `Home` 🏠 page showcase the `recent offer` ✨ and the `latest model car` 🚗. Also with the `image grid`💻 we can the `available car's image`.
